@@ -11,7 +11,7 @@ characters while testing my scripts.
 
 
 
-Example code from me, its important to have numlock active.
+its important to have numlock active.
 
 :)
 
